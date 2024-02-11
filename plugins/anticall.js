@@ -20,16 +20,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Gifted-Tech
+   * @author : Gifted Tech
+   * @youtube : https://www.youtube.com/c/@giftedtechnexus
+   * @infoription : Gifted-Tech ,A Multi-functional whatsapp user bot.
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
+   * ┌┤Created By Gifte Tech.
+   * © 2024 Suhail-Md ✭ ⛥.
    * plugin date : 10/6/2023
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -42,7 +42,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Suhail-Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Suhail-Md Chatbot\`\`\`" ;
+let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hi this is Gifted Tech Bot, a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Gifted Tech Chatbot\`\`\`" ;
 
 
 
