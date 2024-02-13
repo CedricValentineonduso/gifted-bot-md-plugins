@@ -28,8 +28,8 @@ CURRENTLY RUNNING ON BETA VERSION!!
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Gifte Tech.
-   * © 2024 Suhail-Md ✭ ⛥.
+   * ┌┤Created By Gifted Tech.
+   * © 2024 Gifted-Bot-Md ✭ ⛥.
    * plugin date : 10/6/2023
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
