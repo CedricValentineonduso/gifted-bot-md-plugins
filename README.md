@@ -1,9 +1,9 @@
-# Gifted-Tech-Plugins
+# ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ
 
 
 
 
-<h1 align="center"> Gifted-Tech Plugins </h1>
+<h1 align="center"> Gifted-Bot Plugins </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="GiftedTech-plugin-list" /> </p>
