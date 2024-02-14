@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ar
 
 Decline Call From Spammers
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/anticall.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/anticall.js
 ```
 - Auto Decline calls, from selected numbers, Or also Decline Call from All
 ---
