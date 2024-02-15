@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/no
 
 Auto React Messages
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/areact.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/areact.js
 ```
 - Auto React Messages/Cmds/Alls
 ---
