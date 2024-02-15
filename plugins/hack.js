@@ -1,35 +1,17 @@
 /**
-
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：1．2．2                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : gifted-md
+   * @author : Gifted Tech <https://github.com/Giftedmaurice>
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.6 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
-   * plugin date : 18/12/2023
+   * ┌┤Created By Gifted Tech.
+   * © 2024 Gifted-Md ✭ ⛥.
+   * plugin date : 14/2/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -68,7 +50,7 @@ smd({
 },
 
 async(citel) => {    
-await citel.send("Injecting Malware")   
+await citel.send("Gifted-Md Injecting Malware")   
 await sleep(2000)    
 await citel.send(" █ 10%")    
 await sleep(1000)    
@@ -90,20 +72,20 @@ await citel.send(" █ █ █ █ █ █ █ █ █ 90%")
 await sleep(1000)    
 await citel.send(" █ █ █ █ █ █ █ █ █ █ 100%")    
 await sleep(1000)    
-await citel.send("System hyjacking on process.. \n Conecting to Server error to find 404 ")    
+await citel.send("System Hijacking in Process.. \n Conecting to the Server Error to Find 404 ")    
 await sleep(1000)    
-await citel.send("Device successfully connected... \n Riciving data...")    
+await citel.send("Device Successfully Connected... \n Receiving All Data...")    
 await sleep(1000)    
-await citel.send("Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...")
+await citel.send("Data Hijacked from Device 100% Completed \n Killing all Evidence Killing all Malwares...")
 await sleep(1000)    
-await citel.send(" HACKING COMPLETED ")    
+await citel.send(" SYSTEM HACKING COMPLETED BY GIFTED MD ")    
 await sleep(2000)    
-await citel.send(" SENDING LOG DOCUMENTS...")    
+await citel.send(" GIFTED MD SENDING LOG DOCUMENTS NOW...")    
 await sleep(1000)
-await citel.send(" SUCCESSFULLY SENT DATA AND Connection disconnected")    
+await citel.send(" GIFTED MD SUCCESSFULLY SENT DATA AND Connection has Been Disconnected")    
 await sleep(1000)
 
-    return await citel.send('BACKLOGS CLEARED');
+    return await citel.send('BACKLOGS CLEARED AND NO EVIDENCE LEFT');
 
 }
 
