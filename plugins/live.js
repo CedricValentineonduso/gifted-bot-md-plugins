@@ -1,34 +1,17 @@
 /**
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：1．2．2                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : gifted-md
+   * @author : Gifted Tech <https://github.com/Giftedmaurice>
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
-   * plugin date : 10/6/2023
+   * ┌┤Created By Gifted Tech.
+   * © 2024 Gifted-Md ✭ ⛥.
+   * plugin date : 14/2/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -49,7 +32,7 @@ const { smd, Config,  prefix } = require('../lib')
 //---------------------------------------------------------------------------
 smd({
             pattern: "live",
-            desc: "Show Live Time Of Pakistan",
+            desc: "Show Live Time Of Nairobi",
             category: "fun",
             filename: __filename,
             use: '<group link.>',
@@ -80,7 +63,7 @@ let timenow =`
 │   ${Config.caption}
 ╰────────────────╯
 `
-await message.send(timenow, {contextInfo : contextInfo },"suhail",  q )
+await message.send(timenow, {contextInfo : contextInfo },"gifted",  q )
         }catch(e){ await message.error(`${e}\n\ncommand: live`,e,false)}
 
 })
