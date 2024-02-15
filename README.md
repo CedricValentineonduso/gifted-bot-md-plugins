@@ -130,7 +130,7 @@ https://gist.githubusercontent.com/SuhailTechInfo/46087297afd330ad280d7cfc74eccb
 
 
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/audio.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/audio.js
 ```
 - change audio in different varity
 ---
