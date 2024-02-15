@@ -9,7 +9,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
    * Licensed under the  GPL-3.0 License;
 * 
    * ┌┤Created By Gifted Tech.
-   * © 2024 Gifted-Bot-Md ✭ ⛥.
+   * © 2024 Gifted-Md ✭ ⛥.
    * plugin date : 14/2/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
