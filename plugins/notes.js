@@ -1,35 +1,17 @@
 /**
-
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：１．０．１                                                // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : gifted-md
+   * @author : Gifted Tech
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.3 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
-   * plugin update : 10/22/2023
+   * ┌┤Created By Gifted Tech.
+   * © 2024 Gifted-Md ✭ ⛥.
+   * plugin update : 12/2/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -158,12 +140,12 @@ smd({
 },
 async(message, text,{smd}) => {
    try{                
-let txt = `╭───── *『 MONGODB NOTES 』* ───◆
+let txt = `╭───── *『 ɢɪғᴛᴇᴅ ɴᴏᴛᴇs 』* ───◆
 ┃ Here You Can Store Notes For Later Use
 ┃ *------------------------------------------*
 ┃  ┌┤  *✯---- ADD NEW NOTE ----⦿*
 ┃  │✭ *Cmd :* ${prefix+smd} add 'Your Text'
-┃  │✭ *Usage :* Save Text in MongoDb Server
+┃  │✭ *Usage :* Save Text on Gifted Server
 ┃  ╰───────────────────◆
 ┃
 ┃  ┌┤  *✯---- GET ALL NOTES ----⦿*
