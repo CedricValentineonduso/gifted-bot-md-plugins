@@ -84,7 +84,7 @@ Status Saver.
 ```
 https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ssaver.js
 ```
-- Save Someones Whatsapp Story,
+- Save Someones Whatsapp Statuses,
 
 ---
 
@@ -176,7 +176,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/fa
 
 Hacking Prank
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/hack.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/hack.js
 ```
 
 ---
