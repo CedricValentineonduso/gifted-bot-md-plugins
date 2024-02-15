@@ -1,35 +1,17 @@
 /**
-
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：1．2．2                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : gifted-md
+   * @author : Gifted Tech <https://github.com/Giftedmaurice>
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
-   * plugin date : 10/6/2023
+   * ┌┤Created By Gifted Tech.
+   * © 2024 Gifted-Md ✭ ⛥.
+   * plugin date : 14/2/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -45,20 +27,20 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Secktor-bot' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://github.com/Giftedmaurice/gifted-bot-md' // Source URL
+const number = '254728782591'
+var name = ' Gifted Tech'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://telegra.ph/file/54efddccf41281ad7ec51.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
+│ Name      : ɢɪғᴛᴇᴅ ᴍᴀᴜʀɪᴄᴇ(ɢɪғᴛᴇᴅ ᴛᴇᴄʜ)
+│ Place       : ᴇᴅᴏʀᴇᴛ - ᴋᴇɴʏᴀ
 │ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Age          : 21_
+│ Phone     : wa.me/254728782591
+│ Youtube   : Youtube.com/@giftedtechnexus
+│ Status     : sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ɢʀᴀᴘʜɪᴄs ᴅᴇsɪɢɴᴇʀ,ᴄᴇᴏ
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
