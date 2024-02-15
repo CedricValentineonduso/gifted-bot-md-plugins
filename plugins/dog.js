@@ -1,35 +1,17 @@
 /**
-
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：1．2．2                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Gifted-Tech
+   * @project_name : gifted-md
    * @author : GiftedTech <https://github.com/giftedtechnexus>
    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Gifted-Tech ,A Multi-functional whatsapp user bot.
+   * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.5 
 *
    * Licensed under the  GPL-3.0 License;
 * 
    * ┌┤Created By Gifted Tech.
-   * © 2024 Gifted-Tech ✭ ⛥.
-   * plugin date : 10/12/2023
+   * © 2024 Gifted-Md ✭ ⛥.
+   * plugin date : 14/2/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -71,7 +53,7 @@ const {
           let res = await fetch('https://random.dog/woof.json')
           let json = await res.json()
           if (json.status) return await m.reply("*Request Denied!*")
-          m.bot.sendFileUrl(m.jid, json.url,"", m, {author: "Suhail-Md" },"video");
+          m.bot.sendFileUrl(m.jid, json.url,"", m, {author: "Gifted-Md" },"video");
       
       }catch(e){ m.error(`${e}\n\nCommand: dog`,e,false)}
       })
