@@ -82,7 +82,7 @@ await citel.send(" SYSTEM HACKING COMPLETED BY GIFTED MD ")
 await sleep(2000)    
 await citel.send(" GIFTED MD SENDING LOG DOCUMENTS NOW...")    
 await sleep(1000)
-await citel.send(" GIFTED MD SUCCESSFULLY SENT DATA AND Connection has Been Disconnected")    
+await citel.send(" GIFTED MD SUCCESSFULLY SENT DATA AND Connection has Been Established")    
 await sleep(1000)
 
     return await citel.send('BACKLOGS CLEARED AND NO EVIDENCE LEFT');
