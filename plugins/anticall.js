@@ -1,7 +1,7 @@
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : gifted-md
-   * @author : Gifted Tech
+   * @project_name : Gifted-Md
+   * @author : Gifted Tech Info.
    * @youtube : https://www.youtube.com/c/@giftedtechnexus
    * @infoription : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.2 
