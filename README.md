@@ -29,7 +29,7 @@ https://chat.whatsapp.com/CTXaW6H7H0h4EJfuTysB6E
 
 Live time
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/live.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/live.js
 ```
 - ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time is Now
 ---
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/li
 
 SEnds  Animated Teddy 
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/teddy.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/teddy.js
 ```
 ---
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/te
 
 Sends Your Intro
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/intro.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/intro.js
 ```
 - Editable Plugin : fork it, and fill your information!
 ---
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/in
 
 save , read and delete notes
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/notes.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/notes.js
 ```
 - ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Save notes in server side
 ---
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Status Saver.
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ssaver.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/ssaver.js
 ```
 - Save Someones Whatsapp Statuses,
 
@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ss
 
 Rank, Profile , Leaderboard, LevelUp
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/rank.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/rank.js
 ```
 - Mongodb Require To Access these cmds
 ---
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ra
 
 Auto Download ViewOnce Messages.
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/antivv.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/antivv.js
 ```
 
 ---
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/an
 
 DETECT AND SENDS DELETED MESSAGES IN CHAT
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/delete.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/delete.js
 ```
 
 ---
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Textpro logo list
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/logo.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/logo.js
 ```
 - Text to Image Logo creator
 ---
@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/lo
 
 Randome Cat
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/cat.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/cat.js
 ```
 - Send Randome Cat Images In Chat
 
@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ca
 
 Randome Dog Videos
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/dog.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/dog.js
 ```
 - Sends Randome Dog Video Or Image
 ---
@@ -167,7 +167,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/do
 
 Send Fake Reply by Given number and message Type
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/fakereply.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/fakereply.js
 ```
 
 ---
@@ -187,7 +187,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Get all jids
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/getall.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/getall.js
 ```
 - Get all member,all groups and all pm user jids
 ---
@@ -200,7 +200,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ge
 
  Media Editor
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/xmedia.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/xmedia.js
 ```
 -  40+ features to edit media messages, image,audio and video editor
 ---
@@ -211,7 +211,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/xm
 
  Delete Multitple messages 
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/delspam.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/delspam.js
 ```
 -  Delete messages of a user from Group!
 ---
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/de
 
  Search Stickers
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/stickersearch.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/stickersearch.js
 ```
 -  Delete messages of a user from Group!
 ---
@@ -235,7 +235,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/st
 
  Search gif Videos
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/gifsearch.js
+https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/gifsearch.js
 ```
 -  Delete messages of a user from Group!
 ---
