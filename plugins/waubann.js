@@ -82,6 +82,8 @@ await citel.send(" PHONE NUMBER UNBANN OFFICIALLY STARTED ")
 await sleep(2000)    
 await citel.send(" YOUR WHATSAPP NUMBER UNBANN IS CONNECTED AND PROCESSING...")     
 await sleep(1000)
+await citel.send(" CONNECTION ESTABLISHED")
+await sleep(1000)
     return await citel.send('Please be Patient. Will Automatically Update About the ban Issue Within 24Hrs - 48Hrs. Powered by Almour-Unbann Bot');
 
 }
